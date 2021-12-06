@@ -9,7 +9,7 @@ _yoga_
 
 This project is for **educational** porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at:
+Site published at: https://github.com/Ignasjj/5-yoga
 
 Design: [Yoga](https://cdn.discordapp.com/attachments/850245533838868480/916019208788258886/yoga-lifestyle.png)
 
@@ -21,4 +21,4 @@ Design: [Yoga](https://cdn.discordapp.com/attachments/850245533838868480/9160192
 
 ## Authors
 
-Ignas: [Github]
+Ignas: [Github] https://github.com/Ignasjj
